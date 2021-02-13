@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @parch99
+- 👀 I’m interested in Web dev
+- 🌱 I’m currently learning MEAN stack
+- 💞️ I’m looking to collaborate on web app porjects
+- 📫 Reach me on upwork
