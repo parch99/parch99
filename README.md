@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there,
 
-<!--
-**parch99/parch99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>I am a Full-Stack & AI Software Engineer working with React, TypeScript, .NET, Python, FastAPI, and modern AI tooling.
+  <br />
+  I build scalable systems, intelligent automation, and high-performance web apps.
+    
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Full-Stack & AI Developer (React, TypeScript, .NET, Python, FastAPI)
+- 🧠 Experienced with RAG systems, LLM integrations, AI assistants & Automation
+- 🛡️ Build scalable backends (Node.js, .NET, FastAPI) & cloud architectures
+- ⚙️ Strong in system design, microservices, and data pipelines
+- 🎯 Passionate about creating efficient, real-world products
+
+---
+
+## Tech Stack
+
+### **Frontend**
+
+React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand
+
+### **Backend**
+Node.js • Nest.js • .NET • C# • FastAPI • Python • PostgreSQL • MongoDB • Supabase
+
+### **AI & Data**
+OpenAI • LangChain • Pinecone • RAG Pipelines • Vector Databases  
+AI Assistants • Chatbot systems • OpenAI SDK, Perplexity • Data extraction & automation
+
+### **DevOps & Cloud**
+Docker • GCP • AWS • CI/CD • Railway • DigitalOcean • Netlify • Microservice Architecture
+
+---
+
+## 💎 Certifications
+
+- **AWS Certified AI Practitioner (2025)**
+- **Microsoft Azure Fundamentals (2023)**
+
+---
+
+## 📫 [Lets talk](https://unsynth.ai/)
+
+---
