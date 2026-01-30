@@ -3,8 +3,6 @@
 <p align="center">
   <b>I am a Full-Stack & AI Software Engineer working with React, TypeScript, .NET, Python, FastAPI, and modern AI tooling.
   <br />
-  I build scalable systems, intelligent automation, and high-performance web apps.
-    
 </p>
 
 ---
