@@ -1,8 +1,7 @@
 ## Hi there,
 
 <p align="center">
-  <b>I am a Full-Stack & AI Software Engineer working with React, TypeScript, .NET, Python, FastAPI, and modern AI tooling.
-  <br />
+  <b>I am a Full-Stack & AI Software Engineer working with React, TypeScript, .NET, Python, FastAPI, and AI tooling.
 </p>
 
 ---
@@ -10,10 +9,9 @@
 ## About Me
 
 - 💻 Full-Stack & AI Developer (React, TypeScript, .NET, Python, FastAPI)
-- 🧠 Experienced with RAG systems, LLM integrations, AI assistants & Automation
-- 🛡️ Build scalable backends (Node.js, .NET, FastAPI) & cloud architectures
-- ⚙️ Strong in system design, microservices, and data pipelines
-- 🎯 Passionate about creating efficient, real-world products
+- 🧠 Experienced with Machine Learning Model Training and Evaluation, LLM integrations, RAG systems, AI assistants & Automation
+- 🛡️ Backend experience (Node.js, .NET, FastAPI) & cloud architectures
+- ⚙️ Strong in system design, microservice architecture, and data pipelines
 
 ---
 
