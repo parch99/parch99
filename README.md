@@ -8,8 +8,8 @@
 
 ## About Me
 
-- 💻 Full-Stack & AI Developer (React, TypeScript, .NET, Python, FastAPI)
-- 🧠 Experienced with Machine Learning Model Training and Evaluation, LLM integrations, RAG systems, AI assistants & Automation
+- 💻 Main Stack React, TypeScript, Node.js, Python, FastAPI, .NET
+- 🧠 Experienced with training and evaluating ML models, data preprocessing, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
 - 🛡️ Backend experience (Node.js, .NET, FastAPI) & cloud architectures
 - ⚙️ Strong in system design, microservice architecture, and data pipelines
 
