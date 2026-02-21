@@ -19,7 +19,7 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 
 ## Tech Stack
 
-🧠 AI-Expertise
+🧠 AI-Expertise  
 ➔ Data extraction, processing, and mining, feature engineering  
 ➔ Training and evaluating ML models, XGBoost, LightGBM, regression analysis, clustering, neural networks, and probabilistic models (Bayesian Networks).  
 ➔ LLM & AI stack: LangChain, TensorFlow, Numpy, LlamaIndex, Pinecone, FAISS, Supabase, pgvector, OpenAI SDK, Claude, Perplexity, Cursor.  
