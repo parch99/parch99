@@ -9,7 +9,7 @@
 ## About Me
 
 - Main Stack React, TypeScript, Python, FastAPI, Node.js, .NET
-- Experienced with training and evaluating ML models, data preprocessing, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
+- Experienced with training and evaluating ML models, data preprocessing, data extraction, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
 - Backend (FastAPI, Node.js, .NET) & cloud architectures
 - System design, microservice architecture, data pipelines
 
@@ -17,7 +17,6 @@
 
 Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and web3.
 
-## Tech Stack
 
 ### 🧠 **AI-Expertise** 
 ➔ Data extraction, processing, and mining, feature engineering  
@@ -27,13 +26,13 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 
 ### **Frontend**
 
-React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand
+➔ React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand
 
 ### **Backend**
-Python • FastAPI • Node.js • Nest.js • .NET • C# • PostgreSQL • MongoDB • Supabase
+➔ Python • FastAPI • Node.js • Nest.js • .NET • C# • PostgreSQL • MongoDB • Supabase
 
 ### **DevOps & Cloud**
-Docker • GCP • AWS • Railway • DigitalOcean • Netlify • CI/CD • Microservice Architecture
+➔ Docker • GCP • AWS • Railway • DigitalOcean • Netlify • CI/CD • Microservice Architecture
 
 ---
 
