@@ -8,14 +8,22 @@
 
 ## About Me
 
-- 💻 Main Stack React, TypeScript, Node.js, Python, FastAPI, .NET
-- 🧠 Experienced with training and evaluating ML models, data preprocessing, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
-- 🛡️ Backend experience (Node.js, .NET, FastAPI) & cloud architectures
-- ⚙️ Strong in system design, microservice architecture, and data pipelines
+- Main Stack React, TypeScript, Python, FastAPI, Node.js, .NET
+- Experienced with training and evaluating ML models, data preprocessing, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
+- Backend (FastAPI, Node.js, .NET) & cloud architectures
+- System design, microservice architecture, data pipelines
 
 ---
 
+Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and web3.
+
 ## Tech Stack
+
+🧠 AI-Expertise
+➔ Data extraction, processing, and mining, feature engineering
+➔ Training and evaluating ML models, XGBoost, LightGBM, regression analysis, clustering, neural networks, and probabilistic models (Bayesian Networks).
+➔ LLM & AI stack: LangChain, TensorFlow, Numpy, LlamaIndex, Pinecone, FAISS, Supabase, pgvector, OpenAI SDK, Claude, Perplexity, Cursor.
+➔ AI systems: RAG pipelines, Recommendation and Prediction systems, semantic agents, chatbots and assistants, multi-agent communication, Model Context Protocol (MCP), A2A architectures.
 
 ### **Frontend**
 
@@ -23,10 +31,6 @@ React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML •
 
 ### **Backend**
 Node.js • Nest.js • .NET • C# • FastAPI • Python • PostgreSQL • MongoDB • Supabase
-
-### **AI & Data**
-OpenAI • LangChain • Pinecone • RAG Pipelines • Vector Databases  
-AI Assistants • Chatbot systems • OpenAI SDK, Perplexity • Data extraction & automation
 
 ### **DevOps & Cloud**
 Docker • GCP • AWS • CI/CD • Railway • DigitalOcean • Netlify • Microservice Architecture
