@@ -19,7 +19,7 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 
 ## Tech Stack
 
-🧠 AI-Expertise  
+### 🧠 **AI-Expertise** 
 ➔ Data extraction, processing, and mining, feature engineering  
 ➔ Training and evaluating ML models, XGBoost, LightGBM, regression analysis, clustering, neural networks, and probabilistic models (Bayesian Networks).  
 ➔ LLM & AI stack: LangChain, TensorFlow, Numpy, LlamaIndex, Pinecone, FAISS, Supabase, pgvector, OpenAI SDK, Claude, Perplexity, Cursor.  
@@ -30,10 +30,10 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand
 
 ### **Backend**
-Node.js • Nest.js • .NET • C# • FastAPI • Python • PostgreSQL • MongoDB • Supabase
+Python • FastAPI • Node.js • Nest.js • .NET • C# • PostgreSQL • MongoDB • Supabase
 
 ### **DevOps & Cloud**
-Docker • GCP • AWS • CI/CD • Railway • DigitalOcean • Netlify • Microservice Architecture
+Docker • GCP • AWS • Railway • DigitalOcean • Netlify • CI/CD • Microservice Architecture
 
 ---
 
