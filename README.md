@@ -33,8 +33,10 @@ Docker • GCP • AWS • CI/CD • Railway • DigitalOcean • Netlify • Mi
 
 ---
 
-## 💎 Certifications
+## Certifications
 
+- **Machine Learning by Stanford University & DeepLearning.AI (2026)**
+- **Mathematical Foundations for Data Science and Analytics by University of Pittsburgh (2026)**
 - **AWS Certified AI Practitioner (2025)**
 - **Microsoft Azure Fundamentals (2023)**
 
