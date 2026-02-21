@@ -1,7 +1,7 @@
 ## Hi there,
 
 <p align="center">
-  <b>I am a Full-Stack & AI/ML Engineer working with React, TypeScript, .NET, Python, FastAPI, and AI tooling.
+  <b>I am a Full-Stack & AI/ML Engineer working with React, TypeScript, Python, FastAPI, Node.js, .NET, and AI tooling.
 </p>
 
 ---
