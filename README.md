@@ -4,17 +4,6 @@
   <b>I am a Software & AI Engineer working with React, TypeScript, Python, FastAPI, Node.js, .NET, and AI tooling.
 </p>
 
----
-
-## About Me
-
-- Frontend React, React-Native, TypeScript
-- Backend FastAPI, Node.js, .NET & Cloud Architectures
-- System design, microservice architecture, data pipelines
-- Experienced with training and evaluating ML models, data preprocessing, data extraction, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
-
----
-
 Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and web3.
 
 
