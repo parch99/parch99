@@ -9,7 +9,7 @@
 ## About Me
 
 - Frontend React, React-Native, TypeScript
-- Backend (FastAPI, Node.js, .NET) & Cloud Architectures
+- Backend FastAPI, Node.js, .NET & Cloud Architectures
 - System design, microservice architecture, data pipelines
 - Experienced with training and evaluating ML models, data preprocessing, data extraction, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
 
@@ -25,14 +25,19 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 ➔ AI systems: RAG pipelines, Recommendation and Prediction systems, semantic agents, chatbots and assistants, multi-agent communication, Model Context Protocol (MCP), A2A architectures.  
 
 ### **Frontend**
-
-➔ React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand
+➔ React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand • WebGL • Three.js
 
 ### **Backend**
-➔ Python • FastAPI • Node.js • Nest.js • .NET • C# • PostgreSQL • MongoDB • Supabase
+➔ Python • FastAPI • Node.js • Nest.js • .NET • C# • RabbitMQ • PostgreSQL • MongoDB • Supabase • Langchain
 
 ### **DevOps & Cloud**
-➔ Docker • GCP • AWS • Railway • DigitalOcean • Netlify • CI/CD • Microservice Architecture
+➔ Git/Gitlab/Bitbucket • Docker • GCP • Kubernetes • AWS • Railway • DigitalOcean • Netlify • Vercel • CI/CD
+
+### **Testing**
+➔ Unit Testing, Integration Testing, End-to-End Testing with Jest, Playwright, Selenium and NUnit.
+
+### **Architecture**
+➔ Microservice Architecture • CQRS • Domain Driven Design • Event-Driven • Monoliths • Modular Monoliths • Serverless
 
 ---
 
@@ -42,7 +47,3 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 - **Mathematical Foundations for Data Science and Analytics by University of Pittsburgh (2026)**
 - **AWS Certified AI Practitioner (2025)**
 - **Microsoft Azure Fundamentals (2023)**
-
----
-
-## 📫 [Lets talk](https://unsynth.ai/)
