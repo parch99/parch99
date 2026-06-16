@@ -7,12 +7,6 @@
 Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and Web3.
 
 
-### 🧠 **AI-Expertise** 
-➔ Data extraction, processing, and mining, feature engineering  
-➔ Training and evaluating ML models, XGBoost, LightGBM, regression analysis, clustering, neural networks, and probabilistic models (Bayesian Networks).  
-➔ LLM & AI stack: LangChain, TensorFlow, Numpy, LlamaIndex, Pinecone, FAISS, Supabase, pgvector, OpenAI SDK, Claude, Perplexity, Cursor.  
-➔ AI systems: RAG pipelines, Recommendation and Prediction systems, semantic agents, chatbots and assistants, multi-agent communication, Model Context Protocol (MCP), A2A architectures.  
-
 ### **Frontend**
 ➔ React • Next.js • TypeScript • Tailwind • Shadcn/ui • MUI • HTML • CSS • Redux • Zustand • WebGL • Three.js
 
@@ -27,6 +21,13 @@ Professional experience in SaaS, Enterprise Software, Payments & Billing Systems
 
 ### **Architecture**
 ➔ Microservice Architecture • CQRS • Domain Driven Design • Event-Driven • Monoliths • Modular Monoliths • Serverless
+
+
+### 🧠 **AI-Expertise** 
+➔ Data extraction, processing, and mining, feature engineering  
+➔ Training and evaluating ML models, XGBoost, LightGBM, regression analysis, clustering, neural networks, and probabilistic models (Bayesian Networks).  
+➔ LLM & AI stack: LangChain, TensorFlow, Numpy, LlamaIndex, Pinecone, FAISS, Supabase, pgvector, OpenAI SDK, Claude, Perplexity, Cursor.  
+➔ AI systems: RAG pipelines, Recommendation and Prediction systems, semantic agents, chatbots and assistants, multi-agent communication, Model Context Protocol (MCP), A2A architectures.  
 
 ---
 
