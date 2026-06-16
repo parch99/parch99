@@ -1,17 +1,17 @@
 ## Hi there,
 
 <p align="center">
-  <b>I am a Full-Stack & AI/ML Engineer working with React, TypeScript, Python, FastAPI, Node.js, .NET, and AI tooling.
+  <b>I am a Full-Stack & AI Engineer working with React, TypeScript, Python, FastAPI, Node.js, .NET, and AI tooling.
 </p>
 
 ---
 
 ## About Me
 
-- Main Stack React, TypeScript, Python, FastAPI, Node.js, .NET
-- Experienced with training and evaluating ML models, data preprocessing, data extraction, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
-- Backend (FastAPI, Node.js, .NET) & cloud architectures
+- Frontend React, React-Native, TypeScript
+- Backend (FastAPI, Node.js, .NET) & Cloud Architectures
 - System design, microservice architecture, data pipelines
+- Experienced with training and evaluating ML models, data preprocessing, data extraction, regression analysis, clustering techniques, neural networks, and probabilistic models (Bayesian Networks)
 
 ---
 
