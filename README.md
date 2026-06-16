@@ -4,7 +4,7 @@
   <b>I am a Software & AI Engineer working with React, TypeScript, Python, FastAPI, Node.js, .NET, and AI tooling.
 </p>
 
-Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and web3.
+Professional experience in SaaS, Enterprise Software, Payments & Billing Systems, iGaming, decentralized finance (DeFi), financial technology (Fintech), Healthcare and Web3.
 
 
 ### 🧠 **AI-Expertise** 
